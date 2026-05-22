@@ -1,1 +1,23 @@
+A imagem mostra uma estrutura hierárquica em um sistema hospitalar, organizada em níveis.
 
+No topo está o Hospital, que representa a raiz principal da hierarquia. A partir dele surgem os departamentos, como:
+
+Pronto Atendimento
+Clínica Médica
+Centro Cirúrgico
+Diagnóstico por Imagem
+
+Depois aparecem os setores e exemplos mais específicos, como:
+
+Triagem
+Enfermarias
+Salas de cirurgia
+Exames
+
+A hierarquia serve para:
+
+organizar informações do hospital,
+facilitar a navegação dos dados,
+e representar a estrutura real do hospital de forma clara.
+
+Ela funciona como uma árvore, onde cada nível depende do nível acima.
