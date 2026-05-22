@@ -38,7 +38,11 @@ graph TD
 
 
 
-O grafo representa o funcionamento de um sistema de gestao hospitalar moderno focado na integracao automatica entre as areasEm uma explicacao simples o sistema funciona como uma rede de comunicacao em tempo real que elimina a necessidade de processos manuais ou de papeis para transferir informacoes entre os setoresOs circulos no desenho indicam as pessoas que interagem com a plataforma que sao os pacientes e os profissionais de saudeOs retangulos representam os modulos digitais de cada departamento como a recepcao o prontuario eletronico a farmacia e o faturamentoAs setas demonstram o fluxo automatico dos dados onde uma acao realizada pelo medico no computador gera uma reacao imediata em outros setoresComo exemplo pratico quando o profissional de saude salva uma receita digital o sistema envia a informacao para o estoque separar o medicamento e atualiza o financeiro para a cobranca do convenio de forma simultaneaDessa forma a tecnologia gerencia a burocracia interna e permite que a equipe hospitalar dedique mais tempo ao cuidado direto com as pessoas
+
+O grafo representa o funcionamento de um sistema de gestao hospitalar moderno focado na integracao automatica entre as areas. Em uma explicacao simples o sistema funciona como uma rede de comunicacao em tempo real que elimina a necessidade de processos manuais ou de papeis para transferir informacoes entre os setores. Os circulos no desenho indicam as pessoas que interagem com a plataforma que sao os pacientes e os profissionais de saude 
+.Os retangulos representam os modulos digitais de cada departamento como a recepcao o prontuario eletronico a farmacia e o faturamento. As setas demonstram o fluxo automatico dos dados onde uma ação realizada pelo medico no computador gera uma reacao imediata em outros setores. Como exemplo pratico quando o profissional de saude salva uma receita digital o sistema envia a informacao para o estoque separar o medicamento e atualiza o financeiro para a cobranca do convenio de forma simultaneaDessa forma a tecnologia gerencia a burocracia interna e permite que a equipe hospitalar dedique mais tempo ao cuidado direto com as pessoas
+
+
 
 
 
