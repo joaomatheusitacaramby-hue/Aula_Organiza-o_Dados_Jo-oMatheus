@@ -2,9 +2,34 @@
 
 
 
+A imagem mostra como um Array (Vetor) pode ser usado em um sistema hospitalar para organizar quartos do hospital.
+
+Cada posição do array representa um quarto e possui um índice, começando do 0. Alguns quartos estão marcados como disponíveis e outros como ocupados.
+
+O objetivo é facilitar:
+
+o acesso rápido aos quartos,
+a organização das informações,
+e o controle da ocupação dos leitos.
+
+Exemplo:
+
+array[0] → Quarto 101
+array[3] → Quarto 104
+
+Essa estrutura ajuda o sistema hospitalar a gerenciar os quartos de forma simples e eficiente
 
 
 
 
 
-'
+
+
+
+
+
+
+
+
+
+
